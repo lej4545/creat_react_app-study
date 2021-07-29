@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/creat_react_app-study/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/creat_react_app-study/static/js/main.bdfd3c2a.chunk.js",
+    "main.js.map": "/creat_react_app-study/static/js/main.bdfd3c2a.chunk.js.map",
+    "runtime-main.js": "/creat_react_app-study/static/js/runtime-main.fd0280c5.js",
+    "runtime-main.js.map": "/creat_react_app-study/static/js/runtime-main.fd0280c5.js.map",
+    "static/js/2.e80f09d8.chunk.js": "/creat_react_app-study/static/js/2.e80f09d8.chunk.js",
+    "static/js/2.e80f09d8.chunk.js.map": "/creat_react_app-study/static/js/2.e80f09d8.chunk.js.map",
+    "static/js/3.16389f33.chunk.js": "/creat_react_app-study/static/js/3.16389f33.chunk.js",
+    "static/js/3.16389f33.chunk.js.map": "/creat_react_app-study/static/js/3.16389f33.chunk.js.map",
+    "index.html": "/creat_react_app-study/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/creat_react_app-study/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e80f09d8.chunk.js.LICENSE.txt": "/creat_react_app-study/static/js/2.e80f09d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0280c5.js",
+    "static/js/2.e80f09d8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bdfd3c2a.chunk.js"
+  ]
+}
